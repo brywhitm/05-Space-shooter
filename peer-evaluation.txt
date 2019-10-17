@@ -1,0 +1,38 @@
+Name: Jeremy Maldonado 
+Date: October 19, 2019
+Project: Space Shooter
+Peer's repository: https://github.com/brywhitm/05-Space-Shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+
+I learned how I would add enemy sprites that shoot back.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+Same thing as above. I wouldve liked to add a enemy that shoots back.
+
+What suggestions would you have for your peer to improve his/her code?
+
+Nothing. The code was near perfect. There is a few minor bugs such as the enemies staying on the screen after the win or lose screen.
+
+What could have been clearer or better commented?
+
+The code was well commented. 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+There was nothing that was overall confusing.
+
+Does the repository contain an appropriate LICENSE?
+
+Yes it does. 
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+Maybe instructions on how to play the game. 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+Their code was neat and well made. Good Job!
